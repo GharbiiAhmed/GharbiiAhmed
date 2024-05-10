@@ -1,8 +1,8 @@
 ### Hi there, I'm Ahmed👦,
-A Full Stack developer🎯 from tunisia.
+Game developer🎯 from tunisia.
 
-- 👨‍💻 web , java Developer 
-- 🌱 I’m currently learning  mobile development 
+- 👨‍💻 Game Developer 
+- 🌱 I’m currently learning  Unreal Engine 5 
 
 
 
