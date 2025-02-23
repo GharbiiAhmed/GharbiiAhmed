@@ -1,35 +1,41 @@
-### Hi there, I'm Ahmed👦,
-Full Stack Developer🎯 from tunisia.
+<div align="center">
 
-- 👨‍💻 Game Developer 
-- 🌱 I’m currently learning  Unreal Engine 5 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+Ahmed;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+---
+Fullstack Developer
+  
+[![](https://komarev.com/ghpvc/?username=GharbiiAhmed)](https://github.com/GharbiiAhmed)
+[![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ahmed-gharbi-48b68724b/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:aghx01@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
+</div>
 
+<div align="center">
+ 
+ # 💻 Full Stack
+ [![My Skills](https://skillicons.dev/icons?i=next,react,redux,angular,expressjs,flask,androidstudio,flutter,Unity,VR,MachineLearning,AI,Devops,Jenkins,Sonarqube,Sonatype,Docker,Prometheus,Grafana,UnrealEngine5,Blockchain,Web3,Symfony,NodeJS,CodenamenOe,QT,SDL1.2
+)](https://skillicons.dev)
+  <p align="center">
+ <img width="1000" src="snake.svg" alt="snake"/>
+</p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary> ✖️ Click to See More ✖️</summary>
+  <br/>  
+  
+  ### &#x1f4c8; GitHub Stats
+  
+<p align="center" >
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GharbiiAhmed&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,tsql,hack)](https://github.com/GharbiiAhmed) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=Youssef-BS&theme=tokyonight&hide_border=true&background=1F222E" />
+  
+</p>
+  
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+</details>
+ 
+  
+</div>
 
-*Languages:*  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GharbiiAhmed &show_icons=true&theme=transparent)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GharbiiAhmed )](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3> 🤝🏻Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmed-gharbi-48b68724b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahmed-%20gharbi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_ahmed_gharbi_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_ahmed_gharbi_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:gharbi.ahmed@esprit.tn"><img alt="Email" src="https://img.shields.io/badge/Email-gharbi.ahmed@esprit.tn-blue?style=flat-square&logo=gmail"></a>
+---
