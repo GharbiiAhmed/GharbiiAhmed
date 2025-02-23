@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+Ahmed;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
-Fullstack Developer
+Software Engineer
   
 [![](https://komarev.com/ghpvc/?username=GharbiiAhmed)](https://github.com/GharbiiAhmed)
 [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ahmed-gharbi-48b68724b/)
@@ -12,7 +12,7 @@ Fullstack Developer
 
 <div align="center">
  
- # 💻 Full Stack
+ # 💻 Software Engineer
  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,angular,express,flask,androidstudio,flutter,unity,vr,machinelearning,ai,devops,jenkins,sonarqube,docker,prometheus,grafana,unreal,blockchain,web3,symfony,nodejs,qt)](https://skillicons.dev)
 
 <p align="center">
