@@ -13,9 +13,10 @@ Fullstack Developer
 <div align="center">
  
  # 💻 Full Stack
- [![My Skills](https://skillicons.dev/icons?i=next,react,redux,angular,expressjs,flask,androidstudio,flutter,Unity,VR,MachineLearning,AI,Devops,Jenkins,Sonarqube,Sonatype,Docker,Prometheus,Grafana,UnrealEngine5,Blockchain,Web3,Symfony,NodeJS,CodenamenOe,QT,SDL1.2
-)](https://skillicons.dev)
-  <p align="center">
+ [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,angular,express,flask,androidstudio,flutter,unity,vr,machinelearning,ai,devops,jenkins,sonarqube,docker,prometheus,grafana,unreal,blockchain,web3,symfony,nodejs,qt)](https://skillicons.dev)
+
+<p align="center">
+
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
